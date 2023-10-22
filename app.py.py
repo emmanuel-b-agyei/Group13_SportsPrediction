@@ -314,7 +314,7 @@ if __name__ == '__main__':
 
 '''@app.route('/')
 def home():
-    return render_template('index.html')
+    return render_template('index.html')'''
 
 '''@app.route('/predict', methods=['POST'])
 def predict():
@@ -330,7 +330,7 @@ def predict():
         return render_template('index.html', prediction_text='An error occurred. Please check your input data and try again.')'''
 
 '''if __name__ == "__main__":
-    app.run()'''
+    app.run() '''
 
 
 
